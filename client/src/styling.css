@@ -35,3 +35,55 @@ h2{
     margin-top: 2rem;
     color: red;
 }
+
+/* -------------------------HOME STYLING-------------------------- */
+.homeDiv{
+    padding: 1rem;
+}
+.cardStyle{
+    box-shadow: 10px 10px 5px #787fa5 !important;
+    border: 1px solid #787fa5 !important;
+}
+
+/* -------------------------Admin Courses Styling-------------------------- */
+.imgTStyle{
+    height: 3rem;
+    width: auto;
+}
+
+.tableDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 2rem;
+}
+
+.tableCon{
+    box-shadow: 10px 10px 5px #787fa5 !important;
+    border: 1px solid #787fa5 !important;
+}
+
+.searchDiv{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}
+
+.tableBtn{
+    margin: 2px !important;
+}
+
+.clickableCell{
+    cursor: pointer;
+}
+
+.backbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px !important;
+    width: 10rem !important;
+    background-color: #5c6bc0 !important
+}
